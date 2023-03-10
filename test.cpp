@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 using namespace std;
+//123юра лох
 
 void symbolInStr(char *str, char *str2, char *symbol)
 {
